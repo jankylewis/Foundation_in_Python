@@ -1,0 +1,3 @@
+this repo is going to show some code in order to learn OOP in Python language following up to each lesson
+
+-> the original series here:  https://www.youtube.com/watch?v=fTIsCzT4IQU&list=PLOkVupluCIjvfzQFgjiSQIccKiC-BJXwi&index=4
